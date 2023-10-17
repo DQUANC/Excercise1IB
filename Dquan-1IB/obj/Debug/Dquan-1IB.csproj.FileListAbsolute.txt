@@ -1,0 +1,10 @@
+C:\Users\daniq\Documents\UdeO\progra\Dquan-1IB\Dquan-1IB\bin\Debug\Dquan-1IB.exe.config
+C:\Users\daniq\Documents\UdeO\progra\Dquan-1IB\Dquan-1IB\bin\Debug\Dquan-1IB.exe
+C:\Users\daniq\Documents\UdeO\progra\Dquan-1IB\Dquan-1IB\bin\Debug\Dquan-1IB.pdb
+C:\Users\daniq\Documents\UdeO\progra\Dquan-1IB\Dquan-1IB\obj\Debug\Dquan-1IB.csproj.AssemblyReference.cache
+C:\Users\daniq\Documents\UdeO\progra\Dquan-1IB\Dquan-1IB\obj\Debug\Dquan_1IB.Form1.resources
+C:\Users\daniq\Documents\UdeO\progra\Dquan-1IB\Dquan-1IB\obj\Debug\Dquan_1IB.Properties.Resources.resources
+C:\Users\daniq\Documents\UdeO\progra\Dquan-1IB\Dquan-1IB\obj\Debug\Dquan-1IB.csproj.GenerateResource.cache
+C:\Users\daniq\Documents\UdeO\progra\Dquan-1IB\Dquan-1IB\obj\Debug\Dquan-1IB.csproj.CoreCompileInputs.cache
+C:\Users\daniq\Documents\UdeO\progra\Dquan-1IB\Dquan-1IB\obj\Debug\Dquan-1IB.exe
+C:\Users\daniq\Documents\UdeO\progra\Dquan-1IB\Dquan-1IB\obj\Debug\Dquan-1IB.pdb
