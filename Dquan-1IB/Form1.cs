@@ -18,14 +18,6 @@ namespace Dquan_1IB
         }
 
         //Ejercicio 1
-        /* Descripcion       
-         Cree un programa que dibuje un árbol dado un número del 1 al 5
-            1. Ejemplo: si se ingresa el número 4 debe dibujar
-            *
-            **
-            ***
-            ****
-         */
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -55,34 +47,10 @@ namespace Dquan_1IB
 
             label2.Text = tree.ToString();
 
-
-
-
         }
 
         // Ejercicio 2
-        /* Descripcion   
-         Estás desarrollando una aplicación donde trabajas con tipos de motor (suponemos que se trata
-        del tipo de motor de una bomba para mover fluidos). Define una variable tipoMotor e ingresa un
-        valor a través de una caja de texto. Los valores posibles son 1, 2, 3, 4. A través de un condicional
-        switch haz lo siguiente:
        
-        a) Si el tipo de motor es 0, mostrar un mensaje indicando “No hay establecido un valor definido
-        para el tipo de bomba”.
-       
-        b) Si el tipo de motor es 1, mostrar un mensaje indicando “La bomba es una bomba de agua”.
-        
-        c) Si el tipo de motor es 2, mostrar un mensaje indicando “La bomba es una bomba de gasolina”.
-       
-        d) Si el tipo de motor es 3, mostrar un mensaje indicando “La bomba es una bomba de
-        hormigón”.
-       
-        e) Si el tipo de motor es 4,mostrar un mensaje indicando “La bomba es una bomba de pasta
-        alimenticia”.
-       
-        f) Si no se cumple ninguno de los valores anteriores mostrar el mensaje “No existe un valor
-        válido para tipo de bomba”
-        */
         private void button2_Click(object sender, EventArgs e)
         {
 
@@ -113,5 +81,41 @@ namespace Dquan_1IB
 
         }
 
+        // hasta aqui finaliza la tarea original
+
+
+
+        // Ejercicio 3
+            // Area de un triangulo
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int bas = Convert.ToInt32(textBox3.Text);
+            int hei = Convert.ToInt32(textBox4.Text);
+            int area;
+
+            area = (bas * hei)/2 ;
+
+            label5.Text = label5.Text + area;
+
+        }
+
+            // Perimetro de un cuadrado
+        private void button4_Click(object sender, EventArgs e)
+        {
+            int lado = Convert.ToInt32(textBox5.Text);
+            int per = lado * 4;
+
+            label11.Text = label11.Text + per;
+
+        }
+
+            // Area de un cuadrado
+        private void button5_Click(object sender, EventArgs e)
+        {
+            int lado = Convert.ToInt32(textBox5.Text);
+            int area = lado * lado;
+
+            label11.Text = label11.Text + area;
+        }
     }
 }
